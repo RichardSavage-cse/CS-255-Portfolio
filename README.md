@@ -1,1 +1,13 @@
-# CS-255-Portfolio
+# CS 255 Portfolio
+
+## DriverPass Project Reflection
+
+The DriverPass project focused on designing a system for a client who wanted to help students prepare for their driving tests. The client, DriverPass, wanted a system that would allow customers to schedule driving lessons, take online practice exams, manage their accounts, and track their progress. The system also needed to support employees, administrators, and driving instructors so they could manage appointments, customer information, lesson packages, and system updates.
+
+One thing I did particularly well was breaking down the client’s needs into clear system requirements. I was able to identify both functional requirements, such as account creation, appointment scheduling, practice test access, and package management, as well as nonfunctional requirements, such as security, reliability, and ease of use. I also did well with organizing the system design into diagrams and written explanations that showed how the different parts of the system would work together.
+
+If I could revise one part of my work, I would improve the UML diagrams by making them more detailed and polished. For example, I would add more specific relationships between classes and make sure each diagram clearly shows how users move through the system. I would also spend more time reviewing the diagrams from the perspective of the developers who would use them to build the system. This would help make the design easier to understand and implement.
+
+I interpreted the user’s needs by carefully reviewing what DriverPass wanted the system to accomplish. I focused on the problems the client was trying to solve, such as helping students prepare for driving tests, making scheduling easier, and giving staff better tools to manage lessons and accounts. I then used those needs to guide the system design. Considering user needs is important because the system should solve real problems for the people who will use it. If the design does not match the user’s needs, the final product may be confusing, incomplete, or ineffective.
+
+When designing software, I approach the process by first understanding the client’s goals and gathering requirements. Then I organize those requirements into system features, user roles, and workflows. I use diagrams such as use case diagrams, activity diagrams, sequence diagrams, and class diagrams to better understand how the system should function. In the future, I would continue using these strategies, but I would also ask more follow-up questions, review feedback more carefully, and test my design ideas against real user scenarios before finalizing the system.# CS-255-Portfolio
